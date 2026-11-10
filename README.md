@@ -20,8 +20,8 @@ There is a wiki-type website with a search function, an index of topics or categ
 
 The main type of page on the wiki will contain the following sections, where information will be submitted manually by colleagues:
 1. Issue description
-  2. Some standard format for issue description, probably similar to that of classic test cases - steps to reproduce, expected outcome, and actual outcome, but with "possible root causes" added
-  3. "Actual outcome" includes symptoms both from the user perspective, and the more technical perspective, e.g. screenshots, error messages in logs, etc.
+   - Some standard format for issue description, probably similar to that of classic test cases - steps to reproduce, expected outcome, and actual outcome, but with "possible root causes" added
+   - "Actual outcome" includes symptoms both from the user perspective, and the more technical perspective, e.g. screenshots, error messages in logs, etc.
 4. Solution description
   5. Less constrained than the issue description. Will explain the soltion and leave room for explaining why a solution works, pointing back to documentation where one can read more
   6. Important follow-up steps. For example, if an error has been causing data issues, how can the data be cleaned up?
