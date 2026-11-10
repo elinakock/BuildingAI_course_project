@@ -25,7 +25,7 @@ The main type of page on the wiki will contain the following sections, where inf
 4. Solution description
   5. Less constrained than the issue description. Will explain the soltion and leave room for explaining why a solution works, pointing back to documentation where one can read more
   6. Important follow-up steps. For example, if an error has been causing data issues, how can the data be cleaned up?
-  7. Artifacts needed for the solution, for example scripts or files 
+     - Artifacts needed for the solution, for example scripts or files 
 
 An AI agent will read the colleagues' submissions and, based to its context documentation, apply the information in the submissions to the formats/templates for a wiki page and create a new page, or merge the information to an existing wiki-page, if the issue is already described. As the wiki grows, the agent will have more information to base future understandings on, and more merges to make - i.e. building the knowledge on some specific problem.
 
