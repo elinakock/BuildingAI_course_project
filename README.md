@@ -52,10 +52,15 @@ What does your project _not_ solve? Which limitations and ethical considerations
 - over reliance on this. What if the ai misunderstands?
 - regurgitation of incorrectly worded information/input
 - bloating on specific wiki pages if issues are too similar but really 2 different things
+- data protection
 
 ## What next?
 How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
-
+To realize the project, the following things would be needed:
+1. Knowledge of developing with agentic AI
+2. A way to 
+3. 
+4. Support from management, to implement 
 
 ## Acknowledgments
 This project is inspired by my colleagues through the years, who have several times wished for a central source of knowledge-sharing. We maintain an IT-system for several clients, and a lot of the troubleshooting we do is repetetive but never documented in a way properly that lets new colleagues benefit from previous findings. That means newcomers often have to start from scratch, and rely on getting 
