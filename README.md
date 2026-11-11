@@ -38,10 +38,11 @@ If no search results are found, the AI in the solution will suggest which of its
 Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
 The data source for this project is some selected documentation for the system at hand. This can include public official documentation, e.g. [Microsoft Learn](https://learn.microsoft.com/), and any internal documentation (e.g. .docx files). After the original context is established, new data will be added manually by the users, with the help of the LLM model in the system, which will format and align the data based on the existing context. 
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+| Syntax               | Description |
+| -------------------- | ----------- |
+| Public documentation | Obtained online            |
+| Internal documentation  | Obtained from developers        |
+| Manually input data  | Obtained during live use of the system        |
 
 ## Challenges
 What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
