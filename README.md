@@ -47,12 +47,13 @@ The data source for this project is some selected documentation for the system a
 ## Challenges
 What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
 
-- our clients have customized solutions. Some issues might only be relevant for one client. The
-- moderation. Still need humans to check every now and then.
-- over reliance on this. What if the ai misunderstands?
-- regurgitation of incorrectly worded information/input
-- bloating on specific wiki pages if issues are too similar but really 2 different things
-- data protection
+- Our clients have customized solutions. Some issues might only be relevant for one client. 
+- Moderation. Still need humans to check every now and then.
+- Over reliance on this solution. What if the AI misunderstands and mislabels input?
+- Regurgitation of incorrectly worded information/input, which might lead to incorrect conclusions. 
+- Bloating on specific wiki pages if issues are too similar but really 2 different things
+- Data protection - how do we ensure the site is kept safe and any sensitive information cannot be extracted by threat actors?
+- Learning - how can we know whether this solution will help actual understanding of the system, or just give pre-made answers? What are the pros and cons of either? 
 
 ## What next?
 How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
