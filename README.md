@@ -37,7 +37,7 @@ If no search results are found, the AI in the solution will suggest which of its
 ## Data sources and AI methods
 The data source for this project is some selected documentation for the system at hand. This can include public official documentation, e.g. [Microsoft Learn](https://learn.microsoft.com/), and any internal documentation (e.g. .docx files). After the original context is established, new data will be added manually by the users, with the help of the LLM model in the system, which will format and align the data based on the existing context. 
 
-| Syntax               | Description |
+| Type of data               | Description |
 | -------------------- | ----------- |
 | Public documentation | Obtained online            |
 | Internal documentation  | Obtained from developers        |
