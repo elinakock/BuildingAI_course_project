@@ -35,7 +35,6 @@ The second main part of this solution is the search function.
 If no search results are found, the AI in the solution will suggest which of its context documentation might be relevant to go through. 
 
 ## Data sources and AI methods
-Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
 The data source for this project is some selected documentation for the system at hand. This can include public official documentation, e.g. [Microsoft Learn](https://learn.microsoft.com/), and any internal documentation (e.g. .docx files). After the original context is established, new data will be added manually by the users, with the help of the LLM model in the system, which will format and align the data based on the existing context. 
 
 | Syntax               | Description |
