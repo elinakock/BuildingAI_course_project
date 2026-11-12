@@ -5,7 +5,7 @@ Final project for the Building AI course.
 This is a smart, collaborative, wiki-solution for documenting problems and solutions in a system, intended to be used e.g. by consultants who daily solve problems for clients and users in the system. The solution can also be used to train new hires.
 
 ## Background
-At my work, we maintain an IT-system for several clients (bug fixing, configuration, changes, general support), and a lot of the troubleshooting we do is repetetive but never documented in a way properly that lets colleagues (especially new ones) benefit from previous findings. Either it is not documented, or it is documented in scattered places. That means we often have to start from scratch, or rely on getting first-hand information from someone who has previously seen the issue at hand. 
+At my work, we maintain an IT-system for several clients (bug fixing, configuration, changes, general support), and a lot of the troubleshooting we do is repetetive but never documented in a way  that properly lets colleagues (especially new ones) benefit from previous findings. Either it is not documented, or it is documented in scattered places. That means we often have to start from scratch, or rely on getting first-hand information from someone who has previously seen the issue at hand. 
 
 Therefore, this project intends to solve the following problems:
 * Reliance on outdated, incomplete, scattered, or unclear documentation
