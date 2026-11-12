@@ -21,7 +21,7 @@ The main type of page on the wiki will contain the following sections, where inf
    - Some standard format for issue description, probably similar to that of classic test cases - steps to reproduce, expected outcome, and actual outcome, but with "possible root causes" added
    - "Actual outcome" includes symptoms both from the user perspective, and the more technical perspective, e.g. screenshots, error messages in logs, etc.
 2. Solution description
-   - Less constrained than the issue description. Will explain the soltion and leave room for explaining why a solution works, pointing back to documentation where one can read more
+   - Less constrained than the issue description. Will explain the solution and leave room for explaining why a solution works, pointing back to documentation where one can read more
    - Important follow-up steps. For example, if an error has been causing data issues, how can the data be cleaned up?
    - Artifacts needed for the solution, for example scripts or files 
 
